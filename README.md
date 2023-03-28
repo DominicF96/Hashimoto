@@ -14,7 +14,7 @@ According to the National Institute of Diabetes and Digestive and Kidney Disease
 >
 > Thyroid hormones control how your body uses energy, so they affect nearly every organ in your body—even the way your heart beats. [^1]
 
-# Symptoms
+# Symptoms [^1]
 
 - Fatigue
 - Weight gain
@@ -25,7 +25,7 @@ According to the National Institute of Diabetes and Digestive and Kidney Disease
 - Heavy or irregular menstrual periods or fertility problems
 - Slowed heart rate
 
-# Complications
+# Complications [^1]
 
 - High cholesterol
 - Heart disease and heart failure
@@ -34,6 +34,7 @@ According to the National Institute of Diabetes and Digestive and Kidney Disease
 
 
 To read
+
 https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3569966
 https://www.ncbi.nlm.nih.gov/books/NBK500006/
