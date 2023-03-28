@@ -1,6 +1,6 @@
-# Hashimoto's Disease
+*This research is not a diagnosis, if you have health issues, seek medical help.*
 
-This repository is an open-source initiative to share research and resources about Hashimoto's Disease.
+# What is Hashimoto's Disease ?
 
 According to the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), Hashimoto's Disease is;
 
@@ -13,5 +13,30 @@ According to the National Institute of Diabetes and Digestive and Kidney Disease
 > - the thyroid becomes damaged and can’t make enough thyroid hormones
 >
 > Thyroid hormones control how your body uses energy, so they affect nearly every organ in your body—even the way your heart beats. [^1]
+
+# Symptoms
+
+- Fatigue
+- Weight gain
+- Trouble tolerating cold
+- Joint and muscle pain
+- Constipation
+- Dry skin or dry, thinning hair
+- Heavy or irregular menstrual periods or fertility problems
+- Slowed heart rate
+
+# Complications
+
+- High cholesterol
+- Heart disease and heart failure
+- High blood pressure
+- Myxedema
+
+
+To read
+https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3569966
+https://www.ncbi.nlm.nih.gov/books/NBK500006/
+
 
 [^1]: https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease, NIDDK, 2023.
