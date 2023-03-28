@@ -1,6 +1,6 @@
 *This research is not a diagnosis, if you have health issues, seek medical help.*
 
-# What is Hashimoto's Disease ?
+#What is Hashimoto's Disease ?
 
 According to the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), Hashimoto's Disease is;
 
